@@ -15,11 +15,11 @@ Para rodar o projeto na sua máquina, siga as instruções abaixo:
 
 1. Clone o repositório:
 ```bash
- git clone https://github.com/seu-usuario/seu-repositorio.git
+ git clone https://github.com/rodrigolima-dev/my-portfolio.git
 ```
 2. Navegue até a pasta do projeto:
 ```bash
-cd seu-repositorio
+cd my-portfolio
 ```
 3. Instale as dependências
 ```bash
